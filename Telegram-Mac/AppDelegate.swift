@@ -185,6 +185,8 @@ class AppDelegate: NSObject, NSApplicationDelegate, NSUserNotificationCenterDele
             
         }))
         
+        print("Hello, Ash Furrow")
+        
         self.window.contentView?.wantsLayer = true
 
     }
